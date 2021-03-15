@@ -4,7 +4,7 @@ public class SquarePattern{
 		int n = new Scanner(System.in).nextInt();
 		for(int i=1;i<=n;i++){
 			for(int j=0;j<n;j++){
-				System.out.print("4");
+				System.out.print(n);
 			}
 			System.out.println();
 		}
